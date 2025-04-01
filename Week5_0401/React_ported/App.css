@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.container {
+  width: 60%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.biography {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.introduction {
+  margin-bottom: 20px;
+}
+
+.comments {
+  margin-top: 30px;
+}
+
+.comment {
+  border-bottom: 1px solid #eee;
+  padding: 10px 0;
+}
+
+.nickname {
+  font-weight: bold;
+  margin-right: 10px;
+}
