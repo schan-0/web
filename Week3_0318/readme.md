@@ -1,5 +1,6 @@
 
-<img src="https://github.com/user-attachments/assets/4f92852a-ca94-4d20-be2a-92204fe9198d" width="70%">
+<img src="https://github.com/user-attachments/assets/4f92852a-ca94-4d20-be2a-92204fe9198d" width="50%">
+
 
 # React 시계 및 이진 시계 앱
 
