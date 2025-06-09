@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/c10fc6fe-be3b-4910-8381-f73f05e1e075" width="60%">
+<img src="https://github.com/user-attachments/assets/c10fc6fe-be3b-4910-8381-f73f05e1e075" width="50%">
 
 # React 강의 시간표 관리 앱
 
