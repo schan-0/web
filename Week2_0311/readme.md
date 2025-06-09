@@ -1,6 +1,8 @@
 
 
 <img src="https://github.com/user-attachments/assets/e332f189-6404-4b43-9403-a36ecd2362ad" width="70%">
+
+
 # React 프로필 페이지
 
 이 프로젝트는 React를 사용하여 구현된 간단한 프로필 페이지입니다. 사용자 정보, 관심사, 최근 학습 내용 등을 시각적으로 보여주는 것을 목표로 합니다.
