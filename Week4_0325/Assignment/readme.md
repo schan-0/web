@@ -2,6 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/ecea00e0-1783-4357-a1ba-321eabf49da6" width="60%">
 
+4주차 과제
 
 
 # React 기술 트렌드 아티클 페이지
